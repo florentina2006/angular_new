@@ -1,0 +1,88 @@
+node.exe : - Building...
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" "C:\Us
+ers\shray\AppData\Roaming\ 
+...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (- Build  
+  ing...:String) [], Remot   
+ eException
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+
+Initial chunk files   | Names         | Raw size | Estimated transfer size
+main-PXFT3QKU.js      | main          |  1.01 MB |               200.80 kB
+styles-CXUHZ4A3.css   | styles        | 93.50 kB |                 9.49 kB
+polyfills-FFHMD2TL.js | polyfills     | 33.71 kB |                11.02 kB
+
+                      | Initial total |  1.13 MB |               221.31 kB
+
+Application bundle generation failed. [11.066 seconds]
+
+??? [WARNING] bundle initial 
+exceeded maximum budget. 
+Budget 500.00 kB was not met 
+by 657.28 kB with a total of 
+1.13 MB.
+
+
+??? [WARNING] src/app/compone
+nts/dashboard/dashboard.compo
+nent.css exceeded maximum 
+budget. Budget 2.00 kB was 
+not met by 2.66 kB with a 
+total of 4.66 kB.
+
+
+??? [WARNING] src/app/compone
+nts/navbar/navbar.component.c
+ss exceeded maximum budget. 
+Budget 2.00 kB was not met 
+by 1.01 kB with a total of 
+3.01 kB.
+
+
+??? [WARNING] src/app/compone
+nts/login/login.component.css
+ exceeded maximum budget. 
+Budget 2.00 kB was not met 
+by 207 bytes with a total of 
+2.20 kB.
+
+
+??? [WARNING] src/app/compone
+nts/task-list/task-list.compo
+nent.css exceeded maximum 
+budget. Budget 2.00 kB was 
+not met by 1.20 kB with a 
+total of 3.20 kB.
+
+
+??? [WARNING] src/app/compone
+nts/task-detail/task-detail.c
+omponent.css exceeded 
+maximum budget. Budget 2.00 
+kB was not met by 611 bytes 
+with a total of 2.60 kB.
+
+
+X [ERROR] bundle initial 
+exceeded maximum budget. 
+Budget 1.00 MB was not met 
+by 133.28 kB with a total of 
+1.13 MB.
+
+
+X [ERROR] src/app/components/
+dashboard/dashboard.component
+.css exceeded maximum 
+budget. Budget 4.00 kB was 
+not met by 677 bytes with a 
+total of 4.66 kB.
+
+
